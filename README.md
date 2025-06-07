@@ -4,7 +4,9 @@ This is a very compact usb hub with two female usb-c ports i designed, mostly to
 The board is based around a CH334P. I'm including the schematic, PCB and BOM. you can get all the components on LCSC or other providers. 
 
 The input usb-c port is a cut USB-C 2.0 cable with a Molex male header:
+
 The male header is a Molex 501330-0400 with Molex 92001-1198 cable assembly
+
 The female socket is Molex 501568-0407
 
 ![pic](/Pictures/1.png)
