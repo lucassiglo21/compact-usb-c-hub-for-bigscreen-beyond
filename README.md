@@ -7,8 +7,8 @@ The input usb-c port is a cut USB-C 2.0 cable with a Molex male header:
 The male header is a Molex 501330-0400 with Molex 92001-1198 cable assembly
 The female socket is Molex 501568-0407
 
-![pic](/pictures/1.png)
-![pic](/pictures/2.png)
-![pic](/pictures/PCB.png)
-![pic](/pictures/3.jpeg)
-![pic](/pictures/4.jpeg)
+![pic](/Pictures/1.png)
+![pic](/Pictures/2.png)
+![pic](/Pictures/PCB.png)
+![pic](/Pictures/3.jpeg)
+![pic](/Pictures/4.jpeg)
